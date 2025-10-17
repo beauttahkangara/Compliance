@@ -1,3 +1,5 @@
 # Compliance
 
-For searches of accounts against the sanctions list, see Check my [Sanctions Analysis](./Sanctions.ipynb)
+Welcome to Lilian Mwangi's compliance repository. I have organised my compliance checks as follows:
+
+1. [Sanctions Analysis](./Sanctions.ipynb)
