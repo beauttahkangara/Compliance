@@ -4,5 +4,5 @@ Welcome to Lilian Mwangi's compliance repository. I have organised my compliance
 
 A. FINANCIAL COMPLIANCE
 
-  1. [Sanctions Analysis](../Financial_Compliance/Sanctions.ipynb)
+  1. [Sanctions Analysis](https://github.com/beauttahkangara/Compliance/blob/59d6718a014c3761dde8118ff5b6d0e1e5b40db1/Financial_Compliance/Sanctions.ipynb)
   2. [Kenya Court Cases Search](./Financial_Compliance/Kenya_Court_Cases_Search.ipynb)
