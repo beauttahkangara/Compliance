@@ -1,4 +1,4 @@
-# Welcome to Lilian Mwangi's compliance repository. I have organised my compliance checks as follows:
+# Welcome to Lilian Mwangi's compliance repository
 
 ## Financial Compliance Project
 
